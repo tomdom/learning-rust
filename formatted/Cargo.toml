@@ -1,0 +1,6 @@
+[package]
+name = "formatted"
+version = "0.1.0"
+authors = ["tomdom <tvwalter@web.de>"]
+
+[dependencies]
