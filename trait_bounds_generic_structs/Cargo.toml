@@ -1,0 +1,6 @@
+[package]
+name = "trait_bounds_generic_structs"
+version = "0.1.0"
+authors = ["tomdom <tvwalter@web.de>"]
+
+[dependencies]
